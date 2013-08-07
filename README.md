@@ -1,0 +1,4 @@
+startups
+========
+
+Bad startup ideas
